@@ -1,7 +1,6 @@
-#
 # Nginx/Vector Dockerfile
 #
-#
+# VERSION               0.0.1
 
 # Pull base image.
 FROM ubuntu:14.04
